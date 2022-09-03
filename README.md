@@ -35,7 +35,8 @@
   <img align="center" alt="HumbertoDiego-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">  
    <img align="center" alt="HumbertoDiego-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
 </div>
-  ##
+  
+  ## Contact
   
 <div>
 <a href = "mailto:cotaciaeq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
