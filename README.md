@@ -1,7 +1,6 @@
 ### <h2><b>Hi, I'm Humberto Alves, 35, Cartographic Engineer, technology fanatic, working my way up to one day becoming a FULL-STACK developer. Welcome to my github prof!</b></h2>
 
-<b>#ENJOY</b>
-<!-- se você está vendo isso, parabéns... Agora, me faça um desafio :) -->
+<!-- seen this? congrats, now make me a chalenge :) -->
 <div align="center">
   <a href="https://github.com/HumbertoDiego">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HumbertoDiego&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
