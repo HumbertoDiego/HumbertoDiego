@@ -1,4 +1,4 @@
-### <h2><b>Hi, I'm Humberto Alves, 35, Cartographic Engineer, technology fanatic, working my way up to one day becoming a FULL-STACK developer.</b></h2>
+### <h2><b>Hi, I'm Humberto Alves, 35, Cartographic Engineer, technology fanatic, working my way up to become a high quality software developer.</b></h2>
 
 <!-- seen this? congrats, now make me a chalenge :) -->
 <div align="center">
