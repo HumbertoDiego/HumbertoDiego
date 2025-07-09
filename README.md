@@ -33,6 +33,7 @@
   <img align="center" alt="HumbertoDiego-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   <img align="center" alt="HumbertoDiego-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="HumbertoDiego-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+    <img align="center" alt="HumbertoDiego-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
 </div>
   
   ## Contact
